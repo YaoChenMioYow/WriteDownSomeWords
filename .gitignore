@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# ZCode 工作区文件
+.zcode/
+
+# 个人学习数据与 AI 缓存（本地生成，不上传）
+.words_state.json
+.usage_cache.json
+.senses_cache.json
+.families_cache.json
+.vocab_cache_*.json
+
+# 下载的词库缓存（可在「在线词库市场」重新下载）
+dicts/
+
+# 个人词汇表（词书数据，含版权内容，不上传；请自备 .xlsx / .json 词表放程序目录）
+*.xlsx
+*.json
